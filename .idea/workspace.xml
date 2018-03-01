@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5eaee7d-04b9-4b9c-ba12-eeb819daaf80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/google_analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/logo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/section.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_includes/social_icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_layouts/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_layouts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_posts/2012-09-12-first-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_posts/2013-09-12-second-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_posts/2014-09-12-third-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_posts/2015-09-12-fourth-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_posts/2018-01-12-elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sass/jekyll-theme-prologue.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sass/libs/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sass/libs/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sass/libs/_skel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sass/libs/_vars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sections/about-me.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sections/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sections/intro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sections/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/_sections/welcome-to-jekyll.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/ie9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/images/ie/grad0-15.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/images/overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/pic08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/images/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/ie/PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/ie/backgroundsize.min.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/ie/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/ie/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/jquery.scrolly.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/jquery.scrollzer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/skel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/assets/js/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/jekyll-theme-prologue.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-theme-prologue/reading-list.md" afterPath="" />
-    </list>
+    <list default="true" id="b5eaee7d-04b9-4b9c-ba12-eeb819daaf80" name="Default" comment="" />
     <ignored path="CheaterC.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -97,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+            <state relative-caret-position="-209">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -218,6 +147,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -233,6 +190,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CheaterC.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -326,18 +297,18 @@
       <workItem from="1519712899312" duration="77000" />
       <workItem from="1519712986524" duration="359000" />
       <workItem from="1519713354684" duration="755000" />
-      <workItem from="1519868466596" duration="385000" />
+      <workItem from="1519868466596" duration="713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1576000" />
+    <option name="totallyTimeSpent" value="1904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15307583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22818312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -439,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        <state relative-caret-position="-209">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding />
         </state>
       </provider>
